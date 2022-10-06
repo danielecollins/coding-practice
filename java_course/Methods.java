@@ -1,5 +1,3 @@
-package java_course;
-
 public class Methods {
     public static void main(String[] args) {
         Methods example = new Methods();

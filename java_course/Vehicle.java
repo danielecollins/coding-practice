@@ -1,5 +1,3 @@
-package java_course;
-
 class Vehicle { // class body
     int speed = 200; // variable
     byte wheels = 4;
